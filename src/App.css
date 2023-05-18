@@ -1,0 +1,17 @@
+.search-results-container{
+    min-width: 320px;
+    min-height: 260px;
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
+body{
+    overflow: hidden;
+}
+.App{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top: 20px;
+}
